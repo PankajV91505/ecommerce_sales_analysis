@@ -1,0 +1,31 @@
+order_id,customer_id,product_name,category,price,quantity,order_date,customer_email,revenue,product_id,cost_price,supplier,name,age,city,country,registration_date,age_group,profit
+ORD001,CUST001,Wireless Headphones,Electronics,89.99,2,2024-01-15,john.doe@email.com,179.98,PROD001,45.0,TechSupply Co,John Doe,28.0,New York,USA,2023-05-15,20-29,89.97999999999999
+ORD002,CUST002,Gaming Mouse,Electronics,45.5,1,2024-01-15,jane.smith@gmail.com,45.5,PROD002,22.75,GamerGear Ltd,Jane Smith,34.0,London,UK,2023-06-20,30-39,22.75
+ORD003,CUST003,Office Chair,Furniture,299.99,1,2024-01-16,bob.wilson@company.com,299.99,PROD003,150.0,FurniMax Inc,Bob Wilson,34.5,Toronto,Canada,2023-07-10,30-39,149.99
+ORD004,CUST001,USB Cable,Electronics,12.99,3,2024-01-17,john.doe@email.com,38.97,PROD004,5.5,TechSupply Co,John Doe,28.0,New York,USA,2023-05-15,20-29,22.47
+ORD005,CUST004,Coffee Maker,Appliances,199.99,1,2024-01-18,alice.brown@yahoo.com,199.99,PROD005,89.99,HomeAppliance Corp,Alice Brown,29.0,Sydney,Australia,2023-08-05,20-29,110.00000000000001
+ORD006,CUST005,Notebook Set,Stationery,15.75,5,2024-01-18,charlie.davis@hotmail.com,78.75,PROD006,8.25,OfficeSupplies Plus,Charlie Davis,45.0,,Germany,2023-09-12,40-49,37.5
+ORD007,CUST002,Desk Lamp,Electronics,34.99,2,2024-01-19,jane.smith@gmail.com,69.98,PROD007,18.5,TechSupply Co,Jane Smith,34.0,London,UK,2023-06-20,30-39,32.980000000000004
+ORD008,CUST006,Water Bottle,Sports,19.99,1,2024-01-20,diana.miller@email.com,19.99,PROD008,9.99,SportEquip Ltd,Diana Miller,31.0,Chicago,USA,2023-10-18,30-39,9.999999999999998
+ORD009,CUST003,Backpack,Fashion,75.0,1,2024-01-21,bob.wilson@company.com,75.0,PROD009,38.0,FashionForward Inc,Bob Wilson,34.5,Toronto,Canada,2023-07-10,30-39,37.0
+ORD010,CUST007,Phone Case,Electronics,25.99,2,2024-01-22,frank.taylor@gmail.com,51.98,PROD010,12.0,TechSupply Co,Frank Taylor,38.0,Manchester,UK,2023-11-22,30-39,27.979999999999997
+ORD011,CUST008,Yoga Mat,Sports,45.0,1,2024-01-23,grace.lee@email.com,45.0,PROD011,22.5,SportEquip Ltd,Grace Lee,26.0,Vancouver,Canada,2023-12-08,20-29,22.5
+ORD012,CUST001,Bluetooth Speaker,Electronics,120.0,1,2024-01-24,john.doe@email.com,120.0,PROD012,65.0,TechSupply Co,John Doe,28.0,New York,USA,2023-05-15,20-29,55.0
+ORD013,CUST009,Kitchen Scale,Appliances,35.99,1,2024-01-25,henry.clark@yahoo.com,35.99,PROD013,18.99,HomeAppliance Corp,Henry Clark,34.5,Berlin,Germany,2024-01-14,30-39,17.000000000000004
+ORD014,CUST010,Reading Glasses,Fashion,29.99,2,2024-01-26,ivy.adams@hotmail.com,59.98,PROD014,15.0,FashionForward Inc,Ivy Adams,52.0,Melbourne,Australia,2024-02-03,50+,29.979999999999997
+ORD015,CUST004,Travel Mug,Kitchen,18.99,3,2024-01-27,alice.brown@yahoo.com,56.97,PROD015,9.5,HomeAppliance Corp,Alice Brown,29.0,Sydney,Australia,2023-08-05,20-29,28.469999999999995
+ORD016,CUST011,Wireless Charger,Electronics,42.5,1,2024-01-28,jack.white@email.com,42.5,PROD016,21.25,TechSupply Co,Jack White,35.0,Boston,USA,2024-02-20,30-39,21.25
+ORD017,CUST005,Pen Set,Stationery,22.99,2,2024-01-29,charlie.davis@hotmail.com,45.98,PROD017,11.5,OfficeSupplies Plus,Charlie Davis,45.0,,Germany,2023-09-12,40-49,22.979999999999997
+ORD018,CUST012,Fitness Tracker,Electronics,199.99,1,2024-01-30,kate.green@gmail.com,199.99,PROD018,99.99,TechSupply Co,Kate Green,29.0,Edinburgh,UK,2024-03-15,20-29,100.00000000000001
+ORD019,CUST006,Laptop Stand,Electronics,65.0,1,2024-02-01,diana.miller@email.com,65.0,PROD019,32.5,TechSupply Co,Diana Miller,31.0,Chicago,USA,2023-10-18,30-39,32.5
+ORD020,CUST013,Throw Pillow,Home,28.5,4,2024-02-02,liam.harris@yahoo.com,114.0,PROD020,14.25,HomeDecor Solutions,Liam Harris,41.0,Montreal,Canada,2024-04-02,40-49,57.0
+ORD021,CUST007,Power Bank,Electronics,55.99,1,2024-02-03,frank.taylor@gmail.com,55.99,PROD021,28.0,TechSupply Co,Frank Taylor,38.0,Manchester,UK,2023-11-22,30-39,27.990000000000002
+ORD022,CUST014,Ceramic Mug,Kitchen,12.99,6,2024-02-04,mia.jones@email.com,77.94,PROD022,6.5,HomeAppliance Corp,Mia Jones,33.0,,USA,2024-04-18,30-39,38.94
+ORD023,CUST008,Exercise Ball,Sports,38.0,1,2024-02-05,grace.lee@email.com,38.0,PROD023,19.0,SportEquip Ltd,Grace Lee,26.0,Vancouver,Canada,2023-12-08,20-29,19.0
+ORD024,CUST015,Wall Art,Home,85.0,2,2024-02-06,noah.brown@hotmail.com,170.0,PROD024,42.5,HomeDecor Solutions,Noah Brown,27.0,Perth,Australia,2024-05-05,20-29,85.0
+ORD025,CUST001,Screen Cleaner,Electronics,9.99,5,2024-02-07,john.doe@email.com,49.95,PROD025,4.99,TechSupply Co,John Doe,28.0,New York,USA,2023-05-15,20-29,25.0
+ORD026,,Tablet Case,Electronics,39.99,1,2024-02-08,olivia.davis@gmail.com,39.99,PROD026,19.99,TechSupply Co,,,,,,,20.000000000000004
+ORD027,CUST016,Scented Candles,Home,24.99,3,2024-02-09,peter.wilson@email.com,74.97,PROD027,12.5,HomeDecor Solutions,Olivia Davis,39.0,Hamburg,Germany,2024-05-22,30-39,37.47
+ORD028,CUST010,Wireless Mouse,Electronics,28.5,1,2024-02-10,ivy.adams@hotmail.com,28.5,PROD028,14.25,GamerGear Ltd,Ivy Adams,52.0,Melbourne,Australia,2024-02-03,50+,14.25
+ORD029,CUST017,Plant Pot,Garden,15.99,4,2024-02-11,quinn.miller@yahoo.com,63.96,PROD029,8.0,GreenThumb Supplies,Quinn Miller,44.0,Seattle,USA,2024-06-10,40-49,31.96
+ORD030,CUST011,Cable Organizer,Electronics,18.75,2,2024-02-12,jack.white@email.com,37.5,PROD030,9.4,TechSupply Co,Jack White,35.0,Boston,USA,2024-02-20,30-39,18.7

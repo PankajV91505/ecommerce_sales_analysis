@@ -1,0 +1,12 @@
+Dataset,Issue,Records_Affected,Action_Taken
+Sales,Whitespace in product names,0,Stripped whitespace
+Sales,Currency symbols in prices,30,"Removed symbols, converted to float"
+Sales,Inconsistent date formats,0,Standardized to YYYY-MM-DD
+Sales,Invalid/missing emails,0,"Corrected invalid, marked missing"
+Sales,Missing customer_id,1,Kept as is (only 1 record)
+Sales,Inconsistent category names,0,Verified against product catalog
+Customers,Duplicate records,0,Removed duplicates
+Customers,Missing age values,0,Filled with median age
+Customers,Missing city/country,3,Left as missing
+Customers,Inconsistent country names,0,"Standardized to ""UK"""
+Products,Whitespace in product names,0,Stripped whitespace
