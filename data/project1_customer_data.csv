@@ -1,0 +1,26 @@
+customer_id,name,age,city,country,registration_date
+CUST001,John Doe,28,New York,USA,2023-05-15
+CUST002,Jane Smith,34,London,UK,2023-06-20
+CUST003,Bob Wilson,,Toronto,Canada,2023-07-10
+CUST004,Alice Brown,29,Sydney,Australia,2023-08-05
+CUST005,Charlie Davis,45,,Germany,2023-09-12
+CUST006,Diana Miller,31,Chicago,USA,2023-10-18
+CUST007,Frank Taylor,38,Manchester,UK,2023-11-22
+CUST008,Grace Lee,26,Vancouver,Canada,2023-12-08
+CUST009,Henry Clark,,Berlin,Germany,2024-01-14
+CUST010,Ivy Adams,52,Melbourne,Australia,2024-02-03
+CUST011,Jack White,35,Boston,USA,2024-02-20
+CUST012,Kate Green,29,Edinburgh,UK,2024-03-15
+CUST013,Liam Harris,41,Montreal,Canada,2024-04-02
+CUST014,Mia Jones,33,,USA,2024-04-18
+CUST015,Noah Brown,27,Perth,Australia,2024-05-05
+CUST016,Olivia Davis,39,Hamburg,Germany,2024-05-22
+CUST017,Quinn Miller,44,Seattle,USA,2024-06-10
+CUST001,John Doe,28,New York,USA,2023-05-15
+CUST018,Ryan Garcia,30,Los Angeles,USA,2024-06-25
+CUST002,Jane Smith,34,London,United Kingdom,2023-06-20
+CUST019,Sarah Wilson,25,Dublin,Ireland,2024-07-12
+CUST020,Tom Anderson,48,,Sweden,2024-08-01
+CUST021,Uma Patel,36,Mumbai,India,2024-08-15
+CUST022,Victor Chen,42,Singapore,Singapore,2024-09-01
+CUST005,Charlie Davis,45,Munich,Germany,2023-09-12

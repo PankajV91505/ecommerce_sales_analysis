@@ -1,0 +1,31 @@
+product_id,product_name,category,cost_price,supplier
+PROD001,Wireless Headphones,Electronics,45.00,TechSupply Co
+PROD002,Gaming Mouse,Electronics,22.75,GamerGear Ltd
+PROD003,Office Chair,Furniture,150.00,FurniMax Inc
+PROD004,USB Cable,Electronics,5.50,TechSupply Co
+PROD005,Coffee Maker,Appliances,89.99,HomeAppliance Corp
+PROD006,Notebook Set,Stationery,8.25,OfficeSupplies Plus
+PROD007,Desk Lamp,Electronics,18.50,TechSupply Co
+PROD008,Water Bottle,Sports,9.99,SportEquip Ltd
+PROD009,Backpack,Fashion,38.00,FashionForward Inc
+PROD010,Phone Case,Electronics,12.00,TechSupply Co
+PROD011,Yoga Mat,Sports,22.50,SportEquip Ltd
+PROD012,Bluetooth Speaker,Electronics,65.00,TechSupply Co
+PROD013,Kitchen Scale,Appliances,18.99,HomeAppliance Corp
+PROD014,Reading Glasses,Fashion,15.00,FashionForward Inc
+PROD015,Travel Mug,Kitchen,9.50,HomeAppliance Corp
+PROD016,Wireless Charger,Electronics,21.25,TechSupply Co
+PROD017,Pen Set,Stationery,11.50,OfficeSupplies Plus
+PROD018,Fitness Tracker,Electronics,99.99,TechSupply Co
+PROD019,Laptop Stand,Electronics,32.50,TechSupply Co
+PROD020,Throw Pillow,Home,14.25,HomeDecor Solutions
+PROD021,Power Bank,Electronics,28.00,TechSupply Co
+PROD022,Ceramic Mug,Kitchen,6.50,HomeAppliance Corp
+PROD023,Exercise Ball,Sports,19.00,SportEquip Ltd
+PROD024,Wall Art,Home,42.50,HomeDecor Solutions
+PROD025,Screen Cleaner,Electronics,4.99,TechSupply Co
+PROD026,Tablet Case,Electronics,19.99,TechSupply Co
+PROD027,Scented Candles,Home,12.50,HomeDecor Solutions
+PROD028,Wireless Mouse,Electronics,14.25,GamerGear Ltd
+PROD029,Plant Pot,Garden,8.00,GreenThumb Supplies
+PROD030,Cable Organizer,Electronics,9.40,TechSupply Co

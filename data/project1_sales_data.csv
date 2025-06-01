@@ -1,0 +1,31 @@
+order_id,customer_id,product_name,category,price,quantity,order_date,customer_email
+ORD001,CUST001, Wireless Headphones ,Electronics,$89.99,2,2024-01-15,john.doe@email.com
+ORD002,CUST002,Gaming Mouse,Electronics,€45.50,1,15/01/2024,jane.smith@gmail.com
+ORD003,CUST003,Office Chair,Furniture,$299.99,1,2024-01-16,bob.wilson@,
+ORD004,CUST001,USB Cable  ,Electronics,$12.99,3,2024/01/17,john.doe@email.com
+ORD005,CUST004,Coffee Maker,Appliances,199.99,1,2024-01-18,alice.brown@yahoo.com
+ORD006,CUST005,Notebook Set,Stationery,€15.75,5,18-01-2024,charlie.davis@hotmail.com
+ORD007,CUST002,Desk Lamp,Electronics,$34.99,2,2024-01-19,jane.smith@gmail.com
+ORD008,CUST006,Water Bottle,Sports,$19.99,1,20/01/2024,diana.miller@email.com
+ORD009,CUST003,Backpack,Fashion,75.00,1,2024-01-21,bob.wilson@company.com
+ORD010,CUST007,Phone Case,Electronics,€25.99,2,2024-01-22,frank.taylor@gmail.com
+ORD011,CUST008,Yoga Mat,Sports,$45.00,1,23/01/2024,grace.lee@email.com
+ORD012,CUST001,Bluetooth Speaker ,Electronics,$120.00,1,2024-01-24,john.doe@email.com
+ORD013,CUST009,Kitchen Scale,Appliances,€35.99,1,25-01-2024,henry.clark@yahoo.com
+ORD014,CUST010,Reading Glasses,Fashion,$29.99,2,2024-01-26,ivy.adams@hotmail.com
+ORD015,CUST004,Travel Mug,Kitchen,18.99,3,2024/01/27,alice.brown@yahoo.com
+ORD016,CUST011,Wireless Charger,Electronics,€42.50,1,28/01/2024,jack.white@email.com
+ORD017,CUST005,Pen Set,Stationery,$22.99,2,2024-01-29,charlie.davis@hotmail.com
+ORD018,CUST012,Fitness Tracker,Electronics,199.99,1,30-01-2024,kate.green@gmail.com
+ORD019,CUST006,Laptop Stand,Electronics,$65.00,1,2024-02-01,diana.miller@email.com
+ORD020,CUST013,Throw Pillow,Home,€28.50,4,2024/02/02,liam.harris@yahoo.com
+ORD021,CUST007,Power Bank,Electronics,$55.99,1,03/02/2024,frank.taylor@gmail.com
+ORD022,CUST014,Ceramic Mug,Kitchen,12.99,6,2024-02-04,mia.jones@email.com
+ORD023,CUST008,Exercise Ball,Sports,€38.00,1,05-02-2024,grace.lee@email.com
+ORD024,CUST015,Wall Art,Home,$85.00,2,2024-02-06,noah.brown@hotmail.com
+ORD025,CUST001,Screen Cleaner,Electronics,€9.99,5,2024/02/07,john.doe@email.com
+ORD026,,Tablet Case,Electronics,$39.99,1,08/02/2024,olivia.davis@gmail.com
+ORD027,CUST016,Scented Candles,Home,€24.99,3,2024-02-09,peter.wilson@email.com
+ORD028,CUST010,Wireless Mouse,Electronics,$28.50,1,10-02-2024,ivy.adams@hotmail.com
+ORD029,CUST017,Plant Pot,Garden,15.99,4,2024-02-11,quinn.miller@yahoo.com
+ORD030,CUST011,Cable Organizer,Electronics,€18.75,2,2024/02/12,jack.white@email.com
